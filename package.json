@@ -1,0 +1,8 @@
+{
+  "name": "hacktricks",
+  "version": "1.0.0",
+  "dependencies": {
+    "docsify": "^4.11.5"
+  }
+}
+
